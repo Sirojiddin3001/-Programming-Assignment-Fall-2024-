@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int d1=1, d2=0;
+    int d1=0, d2=0;
     cin>>d1>>d2;
     double A=(d1*d2)/2.0;
     cout<<A<<endl;
