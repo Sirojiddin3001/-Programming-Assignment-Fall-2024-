@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    double x=,y=0;
+    double x=0,y=0;
     cin>>x>>y;
     y*=30.48;
     if(x<y) {
