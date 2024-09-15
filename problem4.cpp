@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int N=;
+    int N=0;
     cin>>N;
     if(N%50==0) {
         cout<<0<<endl;
